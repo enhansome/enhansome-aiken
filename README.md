@@ -8,7 +8,7 @@
 
 > \[!TIP]
 >
-> Anything to contribute? [Make a pull request](https://github.com/aiken-lang/awesome-aiken/pulls) ⭐ 82 | 🐛 2 | 📅 2025-10-01 that adds your project to this list :heart:!
+> Anything to contribute? [Make a pull request](https://github.com/aiken-lang/awesome-aiken/pulls) ⭐ 81 | 🐛 2 | 📅 2025-10-01 that adds your project to this list :heart:!
 
 ***
 
@@ -27,7 +27,7 @@
 
 #### Standard library & extras
 
-* [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) ⭐ 59 | 🐛 4 | 🌐 Aiken | 📅 2026-06-10 - The official standard library
+* [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) ⭐ 58 | 🐛 4 | 🌐 Aiken | 📅 2026-06-10 - The official standard library
 * [LogicalMechanism/assist](https://github.com/logicalmechanism/assist) ⭐ 18 | 🐛 0 | 🌐 Aiken | 📅 2026-01-24 - A collection of specialized Aiken functions.
 * [Cardano-Fans/acca](https://github.com/Cardano-Fans/acca) ⭐ 11 | 🐛 3 | 🌐 Gleam | 📅 2026-02-11 - Extensions to the standard library
 * [SundaeSwap-finance/aicone](https://github.com/SundaeSwap-finance/aicone) ⭐ 10 | 🐛 3 | 🌐 Aiken | 📅 2026-08-12 - Several reusable Aiken libraries
@@ -87,7 +87,7 @@
 
 ## Tutorials/Examples
 
-* [MeshJS smart contracts collection](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src) ⭐ 270 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-11 - A series of smart contracts  with full integration with MeshJS, offering code examples and explanations
+* [MeshJS smart contracts collection](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src) ⭐ 271 | 🐛 83 | 🌐 TypeScript | 📅 2026-08-11 - A series of smart contracts  with full integration with MeshJS, offering code examples and explanations
 * [Common Design Pattens](https://github.com/Anastasia-Labs/aiken-design-patterns) ⭐ 54 | 🐛 1 | 🌐 Aiken | 📅 2026-08-07 - A collection of tried and tested modules and functions for implementing common design patterns.
 * [Cardano Capture The Flag](https://github.com/vacuumlabs/cardano-ctf) ⭐ 34 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-28 - A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them.
 * [Gift Card NextJS](https://github.com/adalicious/aiken-gift-card) ⭐ 8 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-27 - A similar gift card example but with NextJS
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
