@@ -88,7 +88,7 @@
 ## Tutorials/Examples
 
 * [MeshJS smart contracts collection](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src) ⭐ 271 | 🐛 82 | 🌐 TypeScript | 📅 2026-08-11 - A series of smart contracts  with full integration with MeshJS, offering code examples and explanations
-* [Common Design Pattens](https://github.com/Anastasia-Labs/aiken-design-patterns) ⭐ 54 | 🐛 2 | 🌐 Aiken | 📅 2026-08-16 - A collection of tried and tested modules and functions for implementing common design patterns.
+* [Common Design Pattens](https://github.com/Anastasia-Labs/aiken-design-patterns) ⭐ 54 | 🐛 2 | 🌐 Aiken | 📅 2026-08-17 - A collection of tried and tested modules and functions for implementing common design patterns.
 * [Cardano Capture The Flag](https://github.com/vacuumlabs/cardano-ctf) ⭐ 34 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-28 - A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them.
 * [Gift Card NextJS](https://github.com/adalicious/aiken-gift-card) ⭐ 8 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-27 - A similar gift card example but with NextJS
 * [Good Practices](https://github.com/francolq/aiken-good-practices) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-13
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

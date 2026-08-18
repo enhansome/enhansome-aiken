@@ -351,7 +351,7 @@
           "repo_info": {
             "archived": false,
             "language": "Aiken",
-            "last_commit": "2026-08-16T15:41:06Z",
+            "last_commit": "2026-08-17T16:27:33Z",
             "owner": "Anastasia-Labs",
             "repo": "aiken-design-patterns",
             "stars": 54
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:02:39.219Z",
+    "last_updated": "2026-08-18T09:55:04.724Z",
     "original_repository": "aiken-lang/awesome-aiken",
     "original_repository_sha": "9ab667e12da7478efc5e700431a3d2403e09729a",
     "enhanced_repository": "enhansome/enhansome-aiken",
