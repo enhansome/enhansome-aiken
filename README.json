@@ -1,333 +1,361 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aiken-lang/stdlib",
+              "description": "The official standard library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575227127,
+                "language": "Aiken",
+                "last_commit": "2026-06-10T19:37:36Z",
+                "owner": "aiken-lang",
+                "repo": "stdlib",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LogicalMechanism/assist",
+              "description": "A collection of specialized Aiken functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 641519846,
+                "language": "Aiken",
+                "last_commit": "2026-01-24T19:38:09Z",
+                "owner": "logical-mechanism",
+                "repo": "Assist",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cardano-Fans/acca",
+              "description": "Extensions to the standard library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599276394,
+                "language": "Gleam",
+                "last_commit": "2026-02-11T17:08:23Z",
+                "owner": "Cardano-Fans",
+                "repo": "acca",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SundaeSwap-finance/aicone",
+              "description": "Several reusable Aiken libraries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650887376,
+                "language": "Aiken",
+                "last_commit": "2026-08-14T12:20:32Z",
+                "owner": "SundaeSwap-finance",
+                "repo": "aicone",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Standard library & extras"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aiken-lang/merkle-patricia-forestry",
+              "description": "For working with modified Merkle Patricia Tries (on-chain & off-chain): a persistent & authenticated data structure to map between arbitrary keys and values.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 803923828,
+                "language": "JavaScript",
+                "last_commit": "2026-06-25T16:46:29Z",
+                "owner": "aiken-lang",
+                "repo": "merkle-patricia-forestry",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anastasia-labs/aiken-linked-list",
+              "description": "For working with onchain distributed linked lists (on-chain): each node in the linked list is represented by a single UTxO (and thus concurrency scales with utilization, the larger the linked list, the lower the probability of experiencing UTxO contention).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 716208217,
+                "language": "Makefile",
+                "last_commit": "2024-05-14T02:54:05Z",
+                "owner": "Anastasia-Labs",
+                "repo": "aiken-linked-list",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anastasia-labs/aiken-trie",
+              "description": "For working with distributed tries (on-chain & off-chain): each trie is fully-contained within a UTxO, and it supports managing multiple distributed tries with a single validator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 716208730,
+                "language": "TypeScript",
+                "last_commit": "2024-04-09T05:11:31Z",
+                "owner": "Anastasia-Labs",
+                "repo": "aiken-trie",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data-structures"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sidan-lab/vodka",
+              "description": "Offer validation utils and similar to offchain code building experience framework for unit testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 774261673,
+                "language": "Gleam",
+                "last_commit": "2026-02-20T06:27:12Z",
+                "owner": "sidan-lab",
+                "repo": "vodka",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aiken-lang/fuzz",
+              "description": "For writing Fuzzers (a.k.a generators) for property-based testing in Aiken",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 766687347,
+                "language": "Aiken",
+                "last_commit": "2025-07-13T16:25:48Z",
+                "owner": "aiken-lang",
+                "repo": "fuzz",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        }
+      ],
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "aiken-lang/stdlib",
-          "description": "The official standard library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Aiken",
-            "last_commit": "2026-06-10T19:37:36Z",
-            "owner": "aiken-lang",
-            "repo": "stdlib",
-            "stars": 58
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sundae Swap V3",
+              "description": "DEX",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639041580,
+                "language": "TypeScript",
+                "last_commit": "2026-06-01T17:16:20Z",
+                "owner": "SundaeSwap-finance",
+                "repo": "sundae-contracts",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minswap V2",
+              "description": "DEX",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658553208,
+                "language": "TypeScript",
+                "last_commit": "2025-04-23T15:23:29Z",
+                "owner": "minswap",
+                "repo": "minswap-dex-v2",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minswap - Stableswap",
+              "description": "DEX",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 643114996,
+                "language": "TypeScript",
+                "last_commit": "2024-06-07T13:12:10Z",
+                "owner": "minswap",
+                "repo": "minswap-stableswap",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lenfi",
+              "description": "Lending and Borrowing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 667766531,
+                "language": "TypeScript",
+                "last_commit": "2025-01-21T13:29:20Z",
+                "owner": "lenfiLabs",
+                "repo": "lenfi-smart-contracts",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SundaeSwap Yield Farming v2",
+              "description": "SundaeSwap Yield Farming v2 contracts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 648456242,
+                "language": "Go",
+                "last_commit": "2025-03-10T15:09:33Z",
+                "owner": "SundaeSwap-finance",
+                "repo": "sundae-yield-v2",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DeFi"
         },
         {
-          "node_type": "item",
-          "title": "LogicalMechanism/assist",
-          "description": "A collection of specialized Aiken functions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Aiken",
-            "last_commit": "2026-01-24T19:38:09Z",
-            "owner": "logical-mechanism",
-            "repo": "Assist",
-            "stars": 18
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nebula",
+              "description": "A Cardano NFT marketplace contract including chain indexer and event listener for individual projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576764781,
+                "language": "TypeScript",
+                "last_commit": "2026-03-17T06:40:49Z",
+                "owner": "spacebudz",
+                "repo": "nebula",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jpg Store",
+              "description": "NFT Marketplace",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 628672558,
+                "language": "TypeScript",
+                "last_commit": "2024-07-02T19:13:49Z",
+                "owner": "jpg-store",
+                "repo": "contracts-v3",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Marketplaces"
         },
         {
-          "node_type": "item",
-          "title": "Cardano-Fans/acca",
-          "description": "Extensions to the standard library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Gleam",
-            "last_commit": "2026-02-11T17:08:23Z",
-            "owner": "Cardano-Fans",
-            "repo": "acca",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SundaeSwap-finance/aicone",
-          "description": "Several reusable Aiken libraries",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Aiken",
-            "last_commit": "2026-08-14T12:20:32Z",
-            "owner": "SundaeSwap-finance",
-            "repo": "aicone",
-            "stars": 10
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fortuna",
+              "description": "A Smart Contract that mimics bitcoin proof of work",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 606703605,
+                "language": "TypeScript",
+                "last_commit": "2024-11-11T04:04:42Z",
+                "owner": "utxo-company",
+                "repo": "fortuna",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "morbid",
+              "description": "A dead-man's switch contract",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 527897741,
+                "language": "TypeScript",
+                "last_commit": "2025-06-17T08:03:45Z",
+                "owner": "ariady-putra",
+                "repo": "morbid",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Projected NFT Whirlpool",
+              "description": "A new protocol for the Paima Whirlpool vision to allow users from other ecosystems to naturally be able to use existing NFTs in games from other ecosystems while still maintaining custody",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 647982155,
+                "language": "TypeScript",
+                "last_commit": "2024-09-12T23:24:08Z",
+                "owner": "PaimaStudios",
+                "repo": "projected-nft-whirlpool",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ENCOINS",
+              "description": "An NFT-based private transactions protocol",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 643291428,
+                "language": null,
+                "last_commit": "2023-09-06T22:18:00Z",
+                "owner": "encryptedcoins",
+                "repo": "encoins-core-aiken",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
         }
       ],
-      "title": "Standard library & extras"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "aiken-lang/merkle-patricia-forestry",
-          "description": "For working with modified Merkle Patricia Tries (on-chain & off-chain): a persistent & authenticated data structure to map between arbitrary keys and values.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-25T16:46:29Z",
-            "owner": "aiken-lang",
-            "repo": "merkle-patricia-forestry",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anastasia-labs/aiken-linked-list",
-          "description": "For working with onchain distributed linked lists (on-chain): each node in the linked list is represented by a single UTxO (and thus concurrency scales with utilization, the larger the linked list, the lower the probability of experiencing UTxO contention).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2024-05-14T02:54:05Z",
-            "owner": "Anastasia-Labs",
-            "repo": "aiken-linked-list",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anastasia-labs/aiken-trie",
-          "description": "For working with distributed tries (on-chain & off-chain): each trie is fully-contained within a UTxO, and it supports managing multiple distributed tries with a single validator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-04-09T05:11:31Z",
-            "owner": "Anastasia-Labs",
-            "repo": "aiken-trie",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Data-structures"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "sidan-lab/vodka",
-          "description": "Offer validation utils and similar to offchain code building experience framework for unit testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Gleam",
-            "last_commit": "2026-02-20T06:27:12Z",
-            "owner": "sidan-lab",
-            "repo": "vodka",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aiken-lang/fuzz",
-          "description": "For writing Fuzzers (a.k.a generators) for property-based testing in Aiken",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Aiken",
-            "last_commit": "2025-07-13T16:25:48Z",
-            "owner": "aiken-lang",
-            "repo": "fuzz",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Dapps"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Sundae Swap V3",
-          "description": "DEX",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-01T17:16:20Z",
-            "owner": "SundaeSwap-finance",
-            "repo": "sundae-contracts",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Minswap V2",
-          "description": "DEX",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-04-23T15:23:29Z",
-            "owner": "minswap",
-            "repo": "minswap-dex-v2",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Minswap - Stableswap",
-          "description": "DEX",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-07T13:12:10Z",
-            "owner": "minswap",
-            "repo": "minswap-stableswap",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lenfi",
-          "description": "Lending and Borrowing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-21T13:29:20Z",
-            "owner": "lenfiLabs",
-            "repo": "lenfi-smart-contracts",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SundaeSwap Yield Farming v2",
-          "description": "SundaeSwap Yield Farming v2 contracts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-03-10T15:09:33Z",
-            "owner": "SundaeSwap-finance",
-            "repo": "sundae-yield-v2",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "DeFi"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Nebula",
-          "description": "A Cardano NFT marketplace contract including chain indexer and event listener for individual projects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-17T06:40:49Z",
-            "owner": "spacebudz",
-            "repo": "nebula",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jpg Store",
-          "description": "NFT Marketplace",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-02T19:13:49Z",
-            "owner": "jpg-store",
-            "repo": "contracts-v3",
-            "stars": 17
-          }
-        }
-      ],
-      "title": "Marketplaces"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Fortuna",
-          "description": "A Smart Contract that mimics bitcoin proof of work",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-11T04:04:42Z",
-            "owner": "utxo-company",
-            "repo": "fortuna",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "morbid",
-          "description": "A dead-man's switch contract",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-06-17T08:03:45Z",
-            "owner": "ariady-putra",
-            "repo": "morbid",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Projected NFT Whirlpool",
-          "description": "A new protocol for the Paima Whirlpool vision to allow users from other ecosystems to naturally be able to use existing NFTs in games from other ecosystems while still maintaining custody",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-09-12T23:24:08Z",
-            "owner": "PaimaStudios",
-            "repo": "projected-nft-whirlpool",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ENCOINS",
-          "description": "An NFT-based private transactions protocol",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-09-06T22:18:00Z",
-            "owner": "encryptedcoins",
-            "repo": "encoins-core-aiken",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -336,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 499363940,
             "language": "TypeScript",
             "last_commit": "2026-08-11T21:04:03Z",
             "owner": "MeshJS",
@@ -350,8 +379,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 756820247,
             "language": "Aiken",
-            "last_commit": "2026-08-17T16:27:33Z",
+            "last_commit": "2026-08-18T15:42:46Z",
             "owner": "Anastasia-Labs",
             "repo": "aiken-design-patterns",
             "stars": 54
@@ -364,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 718994113,
             "language": "TypeScript",
             "last_commit": "2026-06-28T22:49:16Z",
             "owner": "Invariant-0",
@@ -378,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 630202937,
             "language": "TypeScript",
             "last_commit": "2023-04-27T17:35:46Z",
             "owner": "adalicious",
@@ -392,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 945582560,
             "language": "TypeScript",
             "last_commit": "2026-07-13T21:55:41Z",
             "owner": "francolq",
@@ -406,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629591098,
             "language": "Mathematica",
             "last_commit": "2023-10-12T21:49:41Z",
             "owner": "logicalmechanism",
@@ -420,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 750883851,
             "language": null,
             "last_commit": "2026-01-06T16:51:54Z",
             "owner": "keyan-m",
@@ -434,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 663268848,
             "language": "Shell",
             "last_commit": "2023-07-11T18:30:07Z",
             "owner": "logicalmechanism",
@@ -448,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 597059862,
             "language": "TypeScript",
             "last_commit": "2023-10-19T15:47:31Z",
             "owner": "MeshJS",
@@ -462,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 821177774,
             "language": "TypeScript",
             "last_commit": "2026-07-22T00:02:15Z",
             "owner": "SamDelaney",
@@ -474,7 +512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:55:04.724Z",
+    "last_updated": "2026-08-19T09:55:12.481Z",
     "original_repository": "aiken-lang/awesome-aiken",
     "original_repository_sha": "9ab667e12da7478efc5e700431a3d2403e09729a",
     "enhanced_repository": "enhansome/enhansome-aiken",
