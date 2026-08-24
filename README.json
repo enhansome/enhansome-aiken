@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "aiken-lang/setup-aiken",
+              "description": "A GitHub action for installing and using Aiken in Github Workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639629481,
+                "language": "JavaScript",
+                "last_commit": "2026-06-23T07:11:33Z",
+                "owner": "aiken-lang",
+                "repo": "setup-aiken",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Infrastructure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "aiken-lang/stdlib",
               "description": "The official standard library",
               "children": [],
@@ -69,6 +91,28 @@
           "description": null,
           "node_type": "group",
           "title": "Standard library & extras"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ilap/bls",
+              "description": "High-level BLS12-381 cryptographic functions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 806233954,
+                "language": "Gleam",
+                "last_commit": "2026-03-21T23:44:20Z",
+                "owner": "ilap",
+                "repo": "bls",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryptography"
         },
         {
           "children": [
@@ -283,6 +327,50 @@
           "description": null,
           "node_type": "group",
           "title": "Marketplaces"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Seedelf",
+              "description": "A Cardano Stealth Wallet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 792419137,
+                "language": "Rust",
+                "last_commit": "2026-05-21T22:14:47Z",
+                "owner": "logical-mechanism",
+                "repo": "Seedelf-Wallet",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Smart Wallets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "unLearn",
+              "description": "Modular governance framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580373675,
+                "language": "TypeScript",
+                "last_commit": "2024-12-22T21:04:39Z",
+                "owner": "Astodialo",
+                "repo": "unLearn",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Governance"
         },
         {
           "children": [
@@ -512,7 +600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:08:16.599Z",
+    "last_updated": "2026-08-24T14:46:18.147Z",
     "original_repository": "aiken-lang/awesome-aiken",
     "original_repository_id": 633543813,
     "original_repository_sha": "9ab667e12da7478efc5e700431a3d2403e09729a",
