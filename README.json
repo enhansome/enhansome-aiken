@@ -600,9 +600,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:03:08.358Z",
-    "original_repository": "aiken-lang/awesome-aiken",
-    "original_repository_id": 633543813,
+    "last_updated": "2026-08-27T11:20:15.407Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 633543813,
+      "language": null,
+      "last_commit": "2025-10-01T15:36:39Z",
+      "owner": "aiken-lang",
+      "repo": "awesome-aiken",
+      "stars": 81
+    },
     "original_repository_sha": "9ab667e12da7478efc5e700431a3d2403e09729a",
     "enhanced_repository": "enhansome/enhansome-aiken",
     "enhanced_repository_description": null,
