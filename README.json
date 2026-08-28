@@ -18,7 +18,8 @@
                 "owner": "aiken-lang",
                 "repo": "setup-aiken",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "aiken-lang",
                 "repo": "stdlib",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "logical-mechanism",
                 "repo": "Assist",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "Cardano-Fans",
                 "repo": "acca",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "SundaeSwap-finance",
                 "repo": "aicone",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "ilap",
                 "repo": "bls",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             }
           ],
           "description": null,
@@ -129,7 +135,8 @@
                 "owner": "aiken-lang",
                 "repo": "merkle-patricia-forestry",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -144,7 +151,8 @@
                 "owner": "Anastasia-Labs",
                 "repo": "aiken-linked-list",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "Anastasia-Labs",
                 "repo": "aiken-trie",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             }
           ],
           "description": null,
@@ -181,7 +190,8 @@
                 "owner": "sidan-lab",
                 "repo": "vodka",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -196,7 +206,8 @@
                 "owner": "aiken-lang",
                 "repo": "fuzz",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             }
           ],
           "description": null,
@@ -224,7 +235,8 @@
                 "owner": "SundaeSwap-finance",
                 "repo": "sundae-contracts",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -239,7 +251,8 @@
                 "owner": "minswap",
                 "repo": "minswap-dex-v2",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -254,7 +267,8 @@
                 "owner": "minswap",
                 "repo": "minswap-stableswap",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -269,7 +283,8 @@
                 "owner": "lenfiLabs",
                 "repo": "lenfi-smart-contracts",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -284,7 +299,8 @@
                 "owner": "SundaeSwap-finance",
                 "repo": "sundae-yield-v2",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             }
           ],
           "description": null,
@@ -306,7 +322,8 @@
                 "owner": "spacebudz",
                 "repo": "nebula",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -321,7 +338,8 @@
                 "owner": "jpg-store",
                 "repo": "contracts-v3",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             }
           ],
           "description": null,
@@ -343,7 +361,8 @@
                 "owner": "logical-mechanism",
                 "repo": "Seedelf-Wallet",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             }
           ],
           "description": null,
@@ -365,7 +384,8 @@
                 "owner": "Astodialo",
                 "repo": "unLearn",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             }
           ],
           "description": null,
@@ -387,7 +407,8 @@
                 "owner": "utxo-company",
                 "repo": "fortuna",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -402,7 +423,8 @@
                 "owner": "ariady-putra",
                 "repo": "morbid",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -417,7 +439,8 @@
                 "owner": "PaimaStudios",
                 "repo": "projected-nft-whirlpool",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             },
             {
               "node_type": "item",
@@ -432,7 +455,8 @@
                 "owner": "encryptedcoins",
                 "repo": "encoins-core-aiken",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:57:00.789Z"
             }
           ],
           "description": null,
@@ -458,7 +482,8 @@
             "owner": "MeshJS",
             "repo": "mesh",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-28T20:57:00.789Z"
         },
         {
           "node_type": "item",
@@ -473,7 +498,8 @@
             "owner": "Anastasia-Labs",
             "repo": "aiken-design-patterns",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T20:57:00.789Z"
         },
         {
           "node_type": "item",
@@ -488,7 +514,8 @@
             "owner": "Invariant-0",
             "repo": "cardano-ctf",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T20:57:00.789Z"
         },
         {
           "node_type": "item",
@@ -503,7 +530,8 @@
             "owner": "adalicious",
             "repo": "aiken-gift-card",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:57:00.789Z"
         },
         {
           "node_type": "item",
@@ -518,7 +546,8 @@
             "owner": "francolq",
             "repo": "aiken-good-practices",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:57:00.789Z"
         },
         {
           "node_type": "item",
@@ -533,7 +562,8 @@
             "owner": "logicalmechanism",
             "repo": "convert-expression",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:57:00.789Z"
         },
         {
           "node_type": "item",
@@ -548,7 +578,8 @@
             "owner": "keyan-m",
             "repo": "cardano-recorded-mint",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:57:00.789Z"
         },
         {
           "node_type": "item",
@@ -563,7 +594,8 @@
             "owner": "logicalmechanism",
             "repo": "distributed_representation",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:57:00.789Z"
         },
         {
           "node_type": "item",
@@ -578,7 +610,8 @@
             "owner": "MeshJS",
             "repo": "aiken-next-ts-template",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:57:00.789Z"
         },
         {
           "node_type": "item",
@@ -593,14 +626,15 @@
             "owner": "SamDelaney",
             "repo": "CIP_102_Reference",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:57:00.789Z"
         }
       ],
       "title": "Tutorials/Examples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:53:39.470Z",
+    "last_updated": "2026-08-28T20:57:00.789Z",
     "original_repository_info": {
       "archived": false,
       "id": 633543813,
