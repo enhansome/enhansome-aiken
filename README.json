@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up for your Aiken GitHub Actions",
+                "homepage": "https://github.com/marketplace/actions/setup-aiken",
                 "id": 639629481,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-23T07:11:33Z",
+                "open_issues": 0,
                 "owner": "aiken-lang",
                 "repo": "setup-aiken",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             }
@@ -35,12 +40,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Aiken Standard Library",
+                "homepage": "https://aiken-lang.github.io/stdlib",
                 "id": 575227127,
                 "language": "Aiken",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-10T19:37:36Z",
+                "open_issues": 6,
                 "owner": "aiken-lang",
                 "repo": "stdlib",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "aiken",
+                  "cardano",
+                  "plutus",
+                  "smart-contract"
+                ]
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -51,12 +66,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of specialized Aiken functions for smart contracts on Cardano.",
+                "homepage": "https://www.logicalmechanism.io/docs/index.html",
                 "id": 641519846,
                 "language": "Aiken",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-24T19:38:09Z",
+                "open_issues": 0,
                 "owner": "logical-mechanism",
                 "repo": "Assist",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "aiken",
+                  "library",
+                  "open-source",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -67,12 +92,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aiken's utility library",
+                "homepage": "https://cardano-fans.github.io/acca/",
                 "id": 599276394,
                 "language": "Gleam",
+                "license": "MIT",
                 "last_commit": "2026-02-11T17:08:23Z",
+                "open_issues": 3,
                 "owner": "Cardano-Fans",
                 "repo": "acca",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "aiken",
+                  "cardano",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -83,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Several reusable Aiken libraries.  The name is a pun on Aiken and Ice-cream Cone.",
+                "homepage": null,
                 "id": 650887376,
                 "language": "Aiken",
+                "license": null,
                 "last_commit": "2026-08-14T12:20:32Z",
+                "open_issues": 2,
                 "owner": "SundaeSwap-finance",
                 "repo": "aicone",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             }
@@ -106,12 +145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aiken library implementing high level BLS12-381 cryptographic functions",
+                "homepage": null,
                 "id": 806233954,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-21T23:44:20Z",
+                "open_issues": 0,
                 "owner": "ilap",
                 "repo": "bls",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             }
@@ -129,12 +173,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌳 Libraries (Aiken & Node.js) for working with Merkle Patricia Tries on Cardano.",
+                "homepage": "https://aiken-lang.github.io/merkle-patricia-forestry/aiken/merkle_patricia_forestry.html",
                 "id": 803923828,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2026-06-25T16:46:29Z",
+                "open_issues": 0,
                 "owner": "aiken-lang",
                 "repo": "merkle-patricia-forestry",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "aiken",
+                  "cardano",
+                  "merkle-patricia-trie",
+                  "merkle-tree",
+                  "sparse-merkle-tree"
+                ]
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -145,12 +200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 716208217,
                 "language": "Makefile",
+                "license": null,
                 "last_commit": "2024-05-14T02:54:05Z",
+                "open_issues": 2,
                 "owner": "Anastasia-Labs",
                 "repo": "aiken-linked-list",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -161,12 +221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 716208730,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-09T05:11:31Z",
+                "open_issues": 1,
                 "owner": "Anastasia-Labs",
                 "repo": "aiken-trie",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             }
@@ -184,12 +249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provide utility function for aiken onchain validation and testing utility",
+                "homepage": "https://sidan-lab.github.io/vodka/",
                 "id": 774261673,
                 "language": "Gleam",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-20T06:27:12Z",
+                "open_issues": 5,
                 "owner": "sidan-lab",
                 "repo": "vodka",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -200,12 +270,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for writing Fuzzers for property-based testing in Aiken",
+                "homepage": "https://aiken-lang.github.io/fuzz/",
                 "id": 766687347,
                 "language": "Aiken",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-13T16:25:48Z",
+                "open_issues": 4,
                 "owner": "aiken-lang",
                 "repo": "fuzz",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "aiken",
+                  "fuzzer",
+                  "property-based-testing",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             }
@@ -229,12 +309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 639041580,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-06-01T17:16:20Z",
+                "open_issues": 5,
                 "owner": "SundaeSwap-finance",
                 "repo": "sundae-contracts",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -245,12 +330,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 658553208,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-23T15:23:29Z",
+                "open_issues": 2,
                 "owner": "minswap",
                 "repo": "minswap-dex-v2",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -261,12 +351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 643114996,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-07T13:12:10Z",
+                "open_issues": 0,
                 "owner": "minswap",
                 "repo": "minswap-stableswap",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -277,12 +372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 667766531,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-01-21T13:29:20Z",
+                "open_issues": 0,
                 "owner": "lenfiLabs",
                 "repo": "lenfi-smart-contracts",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -293,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Infrastructure for SundaeSwap Yield Farming v2",
+                "homepage": null,
                 "id": 648456242,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-03-10T15:09:33Z",
+                "open_issues": 0,
                 "owner": "SundaeSwap-finance",
                 "repo": "sundae-yield-v2",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             }
@@ -316,12 +421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cardano NFT marketplace contract including chain indexer and event listener for individual projects.",
+                "homepage": null,
                 "id": 576764781,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-17T06:40:49Z",
+                "open_issues": 0,
                 "owner": "spacebudz",
                 "repo": "nebula",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -332,12 +442,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The smart contracts powering jpg.store",
+                "homepage": "https://www.jpg.store",
                 "id": 628672558,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-02T19:13:49Z",
+                "open_issues": 2,
                 "owner": "jpg-store",
                 "repo": "contracts-v3",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "aiken",
+                  "cardano",
+                  "nft",
+                  "nft-marketplace"
+                ]
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             }
@@ -355,12 +475,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A stealth wallet contract using the BLS12-381 curve for Cardano.",
+                "homepage": null,
                 "id": 792419137,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-21T22:14:47Z",
+                "open_issues": 1,
                 "owner": "logical-mechanism",
                 "repo": "Seedelf-Wallet",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             }
@@ -378,12 +503,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "unLearn neighborhood",
+                "homepage": null,
                 "id": 580373675,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-12-22T21:04:39Z",
+                "open_issues": 1,
                 "owner": "Astodialo",
                 "repo": "unLearn",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "aiken",
+                  "cardano",
+                  "lucid",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             }
@@ -401,12 +536,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All the \"greatness\" of proof of work, now in smart contract form",
+                "homepage": "https://minefortuna.com",
                 "id": 606703605,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-11T04:04:42Z",
+                "open_issues": 2,
                 "owner": "utxo-company",
                 "repo": "fortuna",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "aiken",
+                  "bitcoin",
+                  "cardano",
+                  "demeter-run",
+                  "kupo",
+                  "ogmios",
+                  "proof-of-work"
+                ]
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -417,12 +565,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Davy Jones' Locker",
+                "homepage": "https://ariady-putra.github.io/morbid/",
                 "id": 527897741,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-06-17T08:03:45Z",
+                "open_issues": 3,
                 "owner": "ariady-putra",
                 "repo": "morbid",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "aiken",
+                  "dapp",
+                  "haskell",
+                  "offchain",
+                  "onchain",
+                  "playground",
+                  "plutus",
+                  "smart-contract"
+                ]
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -433,12 +595,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 647982155,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-12T23:24:08Z",
+                "open_issues": 6,
                 "owner": "PaimaStudios",
                 "repo": "projected-nft-whirlpool",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "aiken",
+                  "cardano",
+                  "paima",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             },
@@ -449,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ENCOINS Core on-chain code rewritten in Aiken",
+                "homepage": null,
                 "id": 643291428,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-09-06T22:18:00Z",
+                "open_issues": 0,
                 "owner": "encryptedcoins",
                 "repo": "encoins-core-aiken",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
             }
@@ -476,12 +653,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of comprehensive TypeScript libraries for blockchain development on Cardano.",
+            "homepage": "https://meshjs.dev",
             "id": 499363940,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T21:04:03Z",
+            "open_issues": 82,
             "owner": "MeshJS",
             "repo": "mesh",
-            "stars": 271
+            "stars": 271,
+            "topics": [
+              "cardano",
+              "sdk",
+              "typescript",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T20:57:00.789Z"
         },
@@ -492,12 +679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of tried and tested modules and functions for implementing common design patterns in Aiken",
+            "homepage": "https://anastasia-labs.github.io/aiken-design-patterns/",
             "id": 756820247,
             "language": "Aiken",
+            "license": "MIT",
             "last_commit": "2026-08-19T11:00:11Z",
+            "open_issues": 1,
             "owner": "Anastasia-Labs",
             "repo": "aiken-design-patterns",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:00.789Z"
         },
@@ -508,12 +700,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them.",
+            "homepage": "https://invariant0.com/",
             "id": 718994113,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-28T22:49:16Z",
+            "open_issues": 5,
             "owner": "Invariant-0",
             "repo": "cardano-ctf",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "cardano",
+              "ctf",
+              "decentralized-finance",
+              "security",
+              "smart-contracts",
+              "vulnerabilities"
+            ]
           },
           "first_seen": "2026-08-28T20:57:00.789Z"
         },
@@ -524,12 +728,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 630202937,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-27T17:35:46Z",
+            "open_issues": 3,
             "owner": "adalicious",
             "repo": "aiken-gift-card",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:00.789Z"
         },
@@ -540,12 +749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 945582560,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-13T21:55:41Z",
+            "open_issues": 1,
             "owner": "francolq",
             "repo": "aiken-good-practices",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:00.789Z"
         },
@@ -556,12 +770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A contract that allows the minting and burning of tokens on Cardano.",
+            "homepage": null,
             "id": 629591098,
             "language": "Mathematica",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-12T21:49:41Z",
+            "open_issues": 0,
             "owner": "logicalmechanism",
             "repo": "convert-expression",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:00.789Z"
         },
@@ -572,12 +791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A generic Cardano NFT minting script written in Aiken, with on-chain record of all mints",
+            "homepage": null,
             "id": 750883851,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-01-06T16:51:54Z",
+            "open_issues": 1,
             "owner": "keyan-m",
             "repo": "cardano-recorded-mint",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:00.789Z"
         },
@@ -588,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A proof of concept that models a semi-liquid `mint-lock-stake` DAO designed to collect Lovelace for threshold based actions.",
+            "homepage": null,
             "id": 663268848,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2023-07-11T18:30:07Z",
+            "open_issues": 0,
             "owner": "logicalmechanism",
             "repo": "distributed_representation",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:00.789Z"
         },
@@ -604,12 +833,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get started to write smart contracts on Cardano with Aiken and execute it with Mesh.",
+            "homepage": "https://aiken-next-ts-template.vercel.app",
             "id": 597059862,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-19T15:47:31Z",
+            "open_issues": 1,
             "owner": "MeshJS",
             "repo": "aiken-next-ts-template",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cardano",
+              "nextjs",
+              "react",
+              "starter-project",
+              "starter-template",
+              "typescript",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T20:57:00.789Z"
         },
@@ -620,12 +862,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference Implementation for CIP-0102",
+            "homepage": null,
             "id": 821177774,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-22T00:02:15Z",
+            "open_issues": 0,
             "owner": "SamDelaney",
             "repo": "CIP_102_Reference",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:00.789Z"
         }
@@ -634,15 +881,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:57:00.789Z",
+    "last_updated": "2026-08-29T04:59:14.974Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of Aiken libraries, dapps, and resources",
+      "homepage": "https://aiken-lang.org",
       "id": 633543813,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-10-01T15:36:39Z",
+      "open_issues": 2,
       "owner": "aiken-lang",
       "repo": "awesome-aiken",
-      "stars": 81
+      "stars": 81,
+      "topics": [
+        "aiken",
+        "awesome",
+        "awesome-list",
+        "cardano"
+      ]
     },
     "original_repository_sha": "9ab667e12da7478efc5e700431a3d2403e09729a",
     "enhanced_repository": "enhansome/enhansome-aiken",
