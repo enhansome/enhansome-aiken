@@ -543,7 +543,7 @@
                 "license": "Apache-2.0",
                 "last_commit": "2024-11-11T04:04:42Z",
                 "open_issues": 2,
-                "owner": "utxo-company",
+                "owner": "orbistry",
                 "repo": "fortuna",
                 "stars": 53,
                 "topics": [
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:35:13.010Z",
+    "last_updated": "2026-08-30T14:27:36.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
