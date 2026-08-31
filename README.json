@@ -684,7 +684,7 @@
             "id": 756820247,
             "language": "Aiken",
             "license": "MIT",
-            "last_commit": "2026-08-19T11:00:11Z",
+            "last_commit": "2026-08-31T13:21:46Z",
             "open_issues": 1,
             "owner": "Anastasia-Labs",
             "repo": "aiken-design-patterns",
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:27:36.062Z",
+    "last_updated": "2026-08-31T17:07:59.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
