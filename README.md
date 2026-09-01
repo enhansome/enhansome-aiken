@@ -72,7 +72,7 @@
 
 #### Governance
 
-* [unLearn](https://github.com/Astodialo/unLearn) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-12-22 - Modular governance framework
+* [unLearn](https://github.com/Astodialo/unLearn) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-22 - Modular governance framework
 
 #### Games
 
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
