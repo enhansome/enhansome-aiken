@@ -509,7 +509,7 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2024-12-22T21:04:39Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Astodialo",
                 "repo": "unLearn",
                 "stars": 9,
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:44:39.828Z",
+    "last_updated": "2026-09-03T13:40:12.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
