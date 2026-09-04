@@ -88,8 +88,8 @@
 ## Tutorials/Examples
 
 * [MeshJS smart contracts collection](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src) ⭐ 271 | 🐛 82 | 🌐 TypeScript | 📅 2026-08-11 - A series of smart contracts  with full integration with MeshJS, offering code examples and explanations
-* [Common Design Pattens](https://github.com/Anastasia-Labs/aiken-design-patterns) ⭐ 54 | 🐛 1 | 🌐 Aiken | 📅 2026-08-31 - A collection of tried and tested modules and functions for implementing common design patterns.
-* [Cardano Capture The Flag](https://github.com/vacuumlabs/cardano-ctf) ⭐ 34 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-28 - A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them.
+* [Common Design Pattens](https://github.com/Anastasia-Labs/aiken-design-patterns) ⭐ 54 | 🐛 1 | 🌐 Aiken | 📅 2026-09-04 - A collection of tried and tested modules and functions for implementing common design patterns.
+* [Cardano Capture The Flag](https://github.com/vacuumlabs/cardano-ctf) ⭐ 35 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-28 - A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them.
 * [Gift Card NextJS](https://github.com/adalicious/aiken-gift-card) ⭐ 8 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-27 - A similar gift card example but with NextJS
 * [Good Practices](https://github.com/francolq/aiken-good-practices) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-13
 * [Logical Mechanism's Convert Expression](https://github.com/logicalmechanism/convert-expression) ⭐ 3 | 🐛 0 | 🌐 Mathematica | 📅 2023-10-12 - A novel variation of a Schnorr protocol
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

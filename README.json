@@ -684,7 +684,7 @@
             "id": 756820247,
             "language": "Aiken",
             "license": "MIT",
-            "last_commit": "2026-08-31T13:21:46Z",
+            "last_commit": "2026-09-04T11:14:41Z",
             "open_issues": 1,
             "owner": "Anastasia-Labs",
             "repo": "aiken-design-patterns",
@@ -709,7 +709,7 @@
             "open_issues": 5,
             "owner": "Invariant-0",
             "repo": "cardano-ctf",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "cardano",
               "ctf",
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:40:12.729Z",
+    "last_updated": "2026-09-04T13:36:39.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
