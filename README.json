@@ -122,8 +122,8 @@
                 "id": 650887376,
                 "language": "Aiken",
                 "license": null,
-                "last_commit": "2026-08-14T12:20:32Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-05T23:24:09Z",
+                "open_issues": 3,
                 "owner": "SundaeSwap-finance",
                 "repo": "aicone",
                 "stars": 10,
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:51:27.296Z",
+    "last_updated": "2026-09-06T12:57:20.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",

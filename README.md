@@ -30,7 +30,7 @@
 * [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) ⭐ 58 | 🐛 6 | 🌐 Aiken | 📅 2026-06-10 - The official standard library
 * [LogicalMechanism/assist](https://github.com/logicalmechanism/assist) ⭐ 18 | 🐛 0 | 🌐 Aiken | 📅 2026-01-24 - A collection of specialized Aiken functions.
 * [Cardano-Fans/acca](https://github.com/Cardano-Fans/acca) ⭐ 11 | 🐛 3 | 🌐 Gleam | 📅 2026-02-11 - Extensions to the standard library
-* [SundaeSwap-finance/aicone](https://github.com/SundaeSwap-finance/aicone) ⭐ 10 | 🐛 2 | 🌐 Aiken | 📅 2026-08-14 - Several reusable Aiken libraries
+* [SundaeSwap-finance/aicone](https://github.com/SundaeSwap-finance/aicone) ⭐ 10 | 🐛 3 | 🌐 Aiken | 📅 2026-09-05 - Several reusable Aiken libraries
 * [aiken-extra/\*](https://github.com/aiken-extra) - A collection of additional aiken functions to build tests and help debug.
 
 #### Cryptography
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
