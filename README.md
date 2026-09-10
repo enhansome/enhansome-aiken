@@ -8,7 +8,7 @@
 
 > \[!TIP]
 >
-> Anything to contribute? [Make a pull request](https://github.com/aiken-lang/awesome-aiken/pulls) ⭐ 82 | 🐛 2 | 📅 2025-10-01 that adds your project to this list :heart:!
+> Anything to contribute? [Make a pull request](https://github.com/aiken-lang/awesome-aiken/pulls) ⭐ 83 | 🐛 2 | 📅 2025-10-01 that adds your project to this list :heart:!
 
 ***
 
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

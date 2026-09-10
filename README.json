@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:47:27.646Z",
+    "last_updated": "2026-09-10T13:42:11.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
@@ -893,7 +893,7 @@
       "open_issues": 2,
       "owner": "aiken-lang",
       "repo": "awesome-aiken",
-      "stars": 82,
+      "stars": 83,
       "topics": [
         "aiken",
         "awesome",
