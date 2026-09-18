@@ -662,7 +662,7 @@
             "open_issues": 81,
             "owner": "MeshJS",
             "repo": "mesh",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "cardano",
               "sdk",
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:20:48.523Z",
+    "last_updated": "2026-09-18T13:41:31.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
