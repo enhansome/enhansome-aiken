@@ -480,8 +480,8 @@
                 "id": 792419137,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-05-21T22:14:47Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-24T07:18:43Z",
+                "open_issues": 0,
                 "owner": "logical-mechanism",
                 "repo": "Seedelf-Wallet",
                 "stars": 14,
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:17:30.750Z",
+    "last_updated": "2026-09-24T14:15:55.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
