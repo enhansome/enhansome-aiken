@@ -8,7 +8,7 @@
 
 > \[!TIP]
 >
-> Anything to contribute? [Make a pull request](https://github.com/aiken-lang/awesome-aiken/pulls) ⭐ 83 | 🐛 2 | 📅 2025-10-01 that adds your project to this list :heart:!
+> Anything to contribute? [Make a pull request](https://github.com/aiken-lang/awesome-aiken/pulls) ⭐ 82 | 🐛 2 | 📅 2025-10-01 that adds your project to this list :heart:!
 
 ***
 
@@ -53,7 +53,7 @@
 #### DeFi
 
 * [Sundae Swap V3](https://github.com/SundaeSwap-finance/sundae-contracts) ⭐ 23 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-01 - DEX
-* [Minswap V2](https://github.com/minswap/minswap-dex-v2) ⭐ 14 | 🐛 2 | 🌐 TypeScript | 📅 2025-04-23 - DEX
+* [Minswap V2](https://github.com/minswap/minswap-dex-v2) ⭐ 14 | 🐛 3 | 🌐 TypeScript | 📅 2025-04-23 - DEX
 * [Minswap - Stableswap](https://github.com/minswap/minswap-stableswap) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2024-06-07 - DEX
 * [Lenfi](https://github.com/lenfiLabs/lenfi-smart-contracts) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-21 - Lending and Borrowing
 * [SundaeSwap Yield Farming v2](https://github.com/SundaeSwap-finance/sundae-yield-v2) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2025-03-10 - SundaeSwap Yield Farming v2 contracts
@@ -68,7 +68,7 @@
 
 #### Smart Wallets
 
-* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 14 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-01 A Cardano Stealth Wallet
+* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-02 A Cardano Stealth Wallet
 
 #### Governance
 
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
