@@ -68,7 +68,7 @@
 
 #### Smart Wallets
 
-* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-03 A Cardano Stealth Wallet
+* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 14 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-03 A Cardano Stealth Wallet
 
 #### Governance
 
