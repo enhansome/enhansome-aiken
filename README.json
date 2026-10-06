@@ -480,11 +480,11 @@
                 "id": 792419137,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T17:26:45Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-06T05:22:32Z",
+                "open_issues": 1,
                 "owner": "logical-mechanism",
                 "repo": "Seedelf-Wallet",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:00.789Z"
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:36:26.275Z",
+    "last_updated": "2026-10-06T10:18:51.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
