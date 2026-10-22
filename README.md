@@ -68,7 +68,7 @@
 
 #### Smart Wallets
 
-* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-21 A Cardano Stealth Wallet
+* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-22 A Cardano Stealth Wallet
 
 #### Governance
 
@@ -80,7 +80,7 @@
 
 #### Misc
 
-* [Fortuna](https://github.com/cardano-miners/fortuna) ⭐ 53 | 🐛 2 | 🌐 TypeScript | 📅 2024-11-11 - A Smart Contract that mimics bitcoin proof of work
+* [Fortuna](https://github.com/cardano-miners/fortuna) ⭐ 52 | 🐛 2 | 🌐 TypeScript | 📅 2024-11-11 - A Smart Contract that mimics bitcoin proof of work
 * [morbid](https://github.com/ariady-putra/morbid) ⚠️ Archived - A dead-man's switch contract
 * [Projected NFT Whirlpool](https://github.com/dcSpark/projected-nft-whirlpool) ⭐ 10 | 🐛 6 | 🌐 TypeScript | 📅 2024-09-12 - A new protocol for the Paima Whirlpool vision to allow users from other ecosystems to naturally be able to use existing NFTs in games from other ecosystems while still maintaining custody
 * [ENCOINS](https://github.com/encryptedcoins/encoins-core-aiken) ⭐ 2 | 🐛 0 | 📅 2023-09-06 - An NFT-based private transactions protocol
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
