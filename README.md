@@ -28,7 +28,7 @@
 #### Standard library & extras
 
 * [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) ⭐ 58 | 🐛 2 | 🌐 Aiken | 📅 2026-09-26 - The official standard library
-* [LogicalMechanism/assist](https://github.com/logicalmechanism/assist) ⭐ 18 | 🐛 0 | 🌐 Aiken | 📅 2026-01-24 - A collection of specialized Aiken functions.
+* [LogicalMechanism/assist](https://github.com/logicalmechanism/assist) ⭐ 19 | 🐛 0 | 🌐 Aiken | 📅 2026-01-24 - A collection of specialized Aiken functions.
 * [Cardano-Fans/acca](https://github.com/Cardano-Fans/acca) ⭐ 11 | 🐛 3 | 🌐 Gleam | 📅 2026-02-11 - Extensions to the standard library
 * [SundaeSwap-finance/aicone](https://github.com/SundaeSwap-finance/aicone) ⭐ 10 | 🐛 3 | 🌐 Aiken | 📅 2026-09-05 - Several reusable Aiken libraries
 * [aiken-extra/\*](https://github.com/aiken-extra) - A collection of additional aiken functions to build tests and help debug.
@@ -68,7 +68,7 @@
 
 #### Smart Wallets
 
-* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-22 A Cardano Stealth Wallet
+* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-23 A Cardano Stealth Wallet
 
 #### Governance
 
@@ -87,8 +87,8 @@
 
 ## Tutorials/Examples
 
-* [MeshJS smart contracts collection](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src) ⭐ 273 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-16 - A series of smart contracts  with full integration with MeshJS, offering code examples and explanations
-* [Common Design Pattens](https://github.com/Anastasia-Labs/aiken-design-patterns) ⭐ 54 | 🐛 2 | 🌐 Aiken | 📅 2026-10-21 - A collection of tried and tested modules and functions for implementing common design patterns.
+* [MeshJS smart contracts collection](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src) ⭐ 273 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-22 - A series of smart contracts  with full integration with MeshJS, offering code examples and explanations
+* [Common Design Pattens](https://github.com/Anastasia-Labs/aiken-design-patterns) ⭐ 54 | 🐛 2 | 🌐 Aiken | 📅 2026-10-22 - A collection of tried and tested modules and functions for implementing common design patterns.
 * [Cardano Capture The Flag](https://github.com/vacuumlabs/cardano-ctf) ⭐ 35 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-28 - A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them.
 * [Gift Card NextJS](https://github.com/adalicious/aiken-gift-card) ⭐ 8 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-27 - A similar gift card example but with NextJS
 * [Good Practices](https://github.com/francolq/aiken-good-practices) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-13
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
