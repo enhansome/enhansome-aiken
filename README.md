@@ -53,7 +53,7 @@
 #### DeFi
 
 * [Sundae Swap V3](https://github.com/SundaeSwap-finance/sundae-contracts) ⭐ 23 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-01 - DEX
-* [Minswap V2](https://github.com/minswap/minswap-dex-v2) ⭐ 14 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-13 - DEX
+* [Minswap V2](https://github.com/minswap/minswap-dex-v2) ⭐ 15 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-13 - DEX
 * [Minswap - Stableswap](https://github.com/minswap/minswap-stableswap) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2024-06-07 - DEX
 * [Lenfi](https://github.com/lenfiLabs/lenfi-smart-contracts) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-21 - Lending and Borrowing
 * [SundaeSwap Yield Farming v2](https://github.com/SundaeSwap-finance/sundae-yield-v2) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2025-03-10 - SundaeSwap Yield Farming v2 contracts
@@ -68,7 +68,7 @@
 
 #### Smart Wallets
 
-* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-27 A Cardano Stealth Wallet
+* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 A Cardano Stealth Wallet
 
 #### Governance
 
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
