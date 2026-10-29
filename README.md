@@ -68,7 +68,7 @@
 
 #### Smart Wallets
 
-* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 A Cardano Stealth Wallet
+* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-29 A Cardano Stealth Wallet
 
 #### Governance
 
@@ -87,7 +87,7 @@
 
 ## Tutorials/Examples
 
-* [MeshJS smart contracts collection](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src) ⭐ 273 | 🐛 88 | 🌐 TypeScript | 📅 2026-10-27 - A series of smart contracts  with full integration with MeshJS, offering code examples and explanations
+* [MeshJS smart contracts collection](https://github.com/MeshJS/mesh/tree/main/packages/mesh-contract/src) ⭐ 273 | 🐛 89 | 🌐 TypeScript | 📅 2026-10-29 - A series of smart contracts  with full integration with MeshJS, offering code examples and explanations
 * [Common Design Pattens](https://github.com/Anastasia-Labs/aiken-design-patterns) ⭐ 54 | 🐛 2 | 🌐 Aiken | 📅 2026-10-26 - A collection of tried and tested modules and functions for implementing common design patterns.
 * [Cardano Capture The Flag](https://github.com/vacuumlabs/cardano-ctf) ⭐ 36 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-28 - A game where Cardano developers and enthusiasts can try to exploit purposely vulnerable smart contracts and learn about the most common security issues and how to prevent them.
 * [Gift Card NextJS](https://github.com/adalicious/aiken-gift-card) ⭐ 8 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-27 - A similar gift card example but with NextJS
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
