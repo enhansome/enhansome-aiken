@@ -45,7 +45,7 @@
 
 #### Testing
 
-* [sidan-lab/vodka](https://github.com/sidan-lab/vodka) ⭐ 30 | 🐛 5 | 🌐 Gleam | 📅 2026-02-20 - Offer validation utils and similar to offchain code building experience framework for unit testing.
+* [sidan-lab/vodka](https://github.com/sidan-lab/vodka) ⭐ 30 | 🐛 6 | 🌐 Gleam | 📅 2026-02-20 - Offer validation utils and similar to offchain code building experience framework for unit testing.
 * [aiken-lang/fuzz](https://github.com/aiken-lang/fuzz) ⭐ 11 | 🐛 4 | 🌐 Aiken | 📅 2026-09-26 - For writing Fuzzers (a.k.a generators) for property-based testing in Aiken
 
 ## Dapps
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
