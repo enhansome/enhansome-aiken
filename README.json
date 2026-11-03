@@ -476,11 +476,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "A stealth wallet contract using the BLS12-381 curve for Cardano.",
-                "homepage": null,
+                "homepage": "https://www.logicalmechanism.io/seedelf",
                 "id": 792419137,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T17:32:48Z",
+                "last_commit": "2026-11-03T07:37:46Z",
                 "open_issues": 0,
                 "owner": "logical-mechanism",
                 "repo": "Seedelf-Wallet",
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:38:20.536Z",
+    "last_updated": "2026-11-03T17:10:51.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
