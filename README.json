@@ -659,7 +659,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T18:21:12Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "MeshJS",
             "repo": "mesh",
             "stars": 273,
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:22:40.353Z",
+    "last_updated": "2026-11-05T17:29:44.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
