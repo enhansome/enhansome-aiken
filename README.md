@@ -28,7 +28,7 @@
 #### Standard library & extras
 
 * [aiken-lang/stdlib](https://github.com/aiken-lang/stdlib) ⭐ 58 | 🐛 2 | 🌐 Aiken | 📅 2026-09-26 - The official standard library
-* [LogicalMechanism/assist](https://github.com/logicalmechanism/assist) ⭐ 19 | 🐛 0 | 🌐 Aiken | 📅 2026-01-24 - A collection of specialized Aiken functions.
+* [LogicalMechanism/assist](https://github.com/logicalmechanism/assist) ⭐ 19 | 🐛 0 | 🌐 Aiken | 📅 2026-11-07 - A collection of specialized Aiken functions.
 * [Cardano-Fans/acca](https://github.com/Cardano-Fans/acca) ⭐ 11 | 🐛 3 | 🌐 Gleam | 📅 2026-02-11 - Extensions to the standard library
 * [SundaeSwap-finance/aicone](https://github.com/SundaeSwap-finance/aicone) ⭐ 10 | 🐛 3 | 🌐 Aiken | 📅 2026-09-05 - Several reusable Aiken libraries
 * [aiken-extra/\*](https://github.com/aiken-extra) - A collection of additional aiken functions to build tests and help debug.
@@ -68,7 +68,7 @@
 
 #### Smart Wallets
 
-* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-07 A Cardano Stealth Wallet
+* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-08 A Cardano Stealth Wallet
 
 #### Governance
 
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
