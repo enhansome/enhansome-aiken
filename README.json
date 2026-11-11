@@ -480,8 +480,8 @@
                 "id": 792419137,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T17:16:20Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-10T20:30:21Z",
+                "open_issues": 1,
                 "owner": "logical-mechanism",
                 "repo": "Seedelf-Wallet",
                 "stars": 16,
@@ -658,7 +658,7 @@
             "id": 499363940,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T06:20:07Z",
+            "last_commit": "2026-11-11T11:40:51Z",
             "open_issues": 82,
             "owner": "MeshJS",
             "repo": "mesh",
@@ -684,7 +684,7 @@
             "id": 756820247,
             "language": "Aiken",
             "license": "MIT",
-            "last_commit": "2026-10-26T17:57:47Z",
+            "last_commit": "2026-11-11T05:28:32Z",
             "open_issues": 2,
             "owner": "Anastasia-Labs",
             "repo": "aiken-design-patterns",
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:55:45.282Z",
+    "last_updated": "2026-11-11T17:17:12.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
