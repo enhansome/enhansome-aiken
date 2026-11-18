@@ -480,7 +480,7 @@
                 "id": 792419137,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T16:43:40Z",
+                "last_commit": "2026-11-18T04:38:28Z",
                 "open_issues": 0,
                 "owner": "logical-mechanism",
                 "repo": "Seedelf-Wallet",
@@ -662,7 +662,7 @@
             "open_issues": 84,
             "owner": "MeshJS",
             "repo": "mesh",
-            "stars": 273,
+            "stars": 272,
             "topics": [
               "cardano",
               "sdk",
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:40:29.957Z",
+    "last_updated": "2026-11-18T18:14:15.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Aiken libraries, dapps, and resources",
