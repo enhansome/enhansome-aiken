@@ -46,13 +46,13 @@
 #### Testing
 
 * [sidan-lab/vodka](https://github.com/sidan-lab/vodka) ⭐ 30 | 🐛 6 | 🌐 Gleam | 📅 2026-02-20 - Offer validation utils and similar to offchain code building experience framework for unit testing.
-* [aiken-lang/fuzz](https://github.com/aiken-lang/fuzz) ⭐ 11 | 🐛 4 | 🌐 Aiken | 📅 2026-09-26 - For writing Fuzzers (a.k.a generators) for property-based testing in Aiken
+* [aiken-lang/fuzz](https://github.com/aiken-lang/fuzz) ⭐ 12 | 🐛 4 | 🌐 Aiken | 📅 2026-09-26 - For writing Fuzzers (a.k.a generators) for property-based testing in Aiken
 
 ## Dapps
 
 #### DeFi
 
-* [Sundae Swap V3](https://github.com/SundaeSwap-finance/sundae-contracts) ⭐ 23 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-01 - DEX
+* [Sundae Swap V3](https://github.com/SundaeSwap-finance/sundae-contracts) ⭐ 24 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-01 - DEX
 * [Minswap V2](https://github.com/minswap/minswap-dex-v2) ⭐ 15 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-13 - DEX
 * [Minswap - Stableswap](https://github.com/minswap/minswap-stableswap) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2024-06-07 - DEX
 * [Lenfi](https://github.com/lenfiLabs/lenfi-smart-contracts) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-21 - Lending and Borrowing
@@ -68,7 +68,7 @@
 
 #### Smart Wallets
 
-* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-19 A Cardano Stealth Wallet
+* [Seedelf](https://github.com/logical-mechanism/Seedelf-Wallet) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 A Cardano Stealth Wallet
 
 #### Governance
 
@@ -118,4 +118,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
